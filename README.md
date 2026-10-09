@@ -81,19 +81,19 @@ Me chamo Pedro Rodrigues, tenho 18 anos e moro em Mogi das Cruzes - SP. Atualmen
 />
 <img
     align="left"
-    alt="VSCode"
-    title="VSCode"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img
-    align="left"
     alt="Figma"
     title="Figma"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  
+/>
+<img
+    align="left"
+    alt="n8n"
+    title="n8n"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg"  
 />
 
 <br/>
