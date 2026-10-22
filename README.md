@@ -113,7 +113,7 @@ Me chamo Pedro Rodrigues, tenho 18 anos e moro em Mogi das Cruzes - SP. Atualmen
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=dropehm&layout=compact&custom_title=Tecnologias&langs_count=8&bg_color=00352f&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=004225&" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=dropehm&layout=compact&custom_title=Stacks&langs_count=8&bg_color=00352f&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=004225&" 
   />
 
 </p>
